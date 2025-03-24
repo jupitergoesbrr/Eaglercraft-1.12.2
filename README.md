@@ -1,2 +1,2 @@
 # Eaglercraft-1.12.2
-The download link for Eaglercraft 1.12.2 Enjoy
+The download link for Eaglercraft 1.12.2. The download link for Eaglercraft 1.12.2. Click on the Eaglercraft_1.12_Offline_en_US.html and click on the download button that looks like an arrow pointing at a box. The file should download. Once you have downloaded the file, double click on it to open it. It should launch a tab somewhere on the lines of file:///media/archive/Eaglercraft_1.12_Offline_Download.zip/Eaglercraft_1.12_Offline_en_US.html
